@@ -1,0 +1,7 @@
+tensorflow==2.16.2
+tensorflow-metal>=0.8.4
+numpy>=1.26.0
+matplotlib>=3.7.0
+imageio>=2.31.0
+pillow>=10.0.0
+pandas>=2.2.0

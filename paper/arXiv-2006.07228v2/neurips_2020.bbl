@@ -1,0 +1,258 @@
+\begin{thebibliography}{37}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Augenstein et~al.(2019)Augenstein, McMahan, Ramage, Ramaswamy,
+  Kairouz, Chen, Mathews, et~al.]{augenstein2019generative}
+Sean Augenstein, H~Brendan McMahan, Daniel Ramage, Swaroop Ramaswamy, Peter
+  Kairouz, Mingqing Chen, Rajiv Mathews, et~al.
+\newblock Generative models for effective ml on private, decentralized
+  datasets.
+\newblock \emph{arXiv preprint arXiv:1911.06679}, 2019.
+
+\bibitem[Balachandran et~al.(2014)Balachandran, Olsen, and
+  Pedersen]{balachandran2014bandwidth}
+Kartheepan Balachandran, Rasmus~L Olsen, and Jens~M Pedersen.
+\newblock Bandwidth analysis of smart meter network infrastructure.
+\newblock In \emph{16th International Conference on Advanced Communication
+  Technology}, pages 928--933. IEEE, 2014.
+
+\bibitem[Borkar(1997)]{borkar1997stochastic}
+Vivek~S Borkar.
+\newblock Stochastic approximation with two time scales.
+\newblock \emph{Systems \& Control Letters}, 29\penalty0 (5):\penalty0
+  291--294, 1997.
+
+\bibitem[Borkar(2009)]{borkar2009stochastic}
+Vivek~S Borkar.
+\newblock \emph{Stochastic approximation: a dynamical systems viewpoint},
+  volume~48.
+\newblock Springer, 2009.
+
+\bibitem[Bowles et~al.(2018)Bowles, Chen, Guerrero, Bentley, Gunn, Hammers,
+  Dickie, Hern{\'a}ndez, Wardlaw, and Rueckert]{bowles2018gan}
+Christopher Bowles, Liang Chen, Ricardo Guerrero, Paul Bentley, Roger Gunn,
+  Alexander Hammers, David~Alexander Dickie, Maria~Vald{\'e}s Hern{\'a}ndez,
+  Joanna Wardlaw, and Daniel Rueckert.
+\newblock Gan augmentation: Augmenting training data using generative
+  adversarial networks.
+\newblock \emph{arXiv preprint arXiv:1810.10863}, 2018.
+
+\bibitem[Chasnov et~al.(2019)Chasnov, Ratliff, Mazumdar, and
+  Burden]{chasnov2019convergence}
+Benjamin Chasnov, Lillian~J Ratliff, Eric Mazumdar, and Samuel~A Burden.
+\newblock Convergence analysis of gradient-based learning with non-uniform
+  learning rates in non-cooperative multi-agent settings.
+\newblock \emph{arXiv preprint arXiv:1906.00731}, 2019.
+
+\bibitem[Dinh et~al.(2019)Dinh, Tran, Nguyen, Hong, Bao, Zomaya, and
+  Gramoli]{dinh2019federated}
+Canh Dinh, Nguyen~H Tran, Minh~NH Nguyen, Choong~Seon Hong, Wei Bao, Albert
+  Zomaya, and Vincent Gramoli.
+\newblock Federated learning over wireless networks: Convergence analysis and
+  resource allocation.
+\newblock \emph{arXiv preprint arXiv:1910.13067}, 2019.
+
+\bibitem[Goodfellow et~al.(2014)Goodfellow, Pouget-Abadie, Mirza, Xu,
+  Warde-Farley, Ozair, Courville, and Bengio]{goodfellow2014generative}
+Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley,
+  Sherjil Ozair, Aaron Courville, and Yoshua Bengio.
+\newblock Generative adversarial nets.
+\newblock In \emph{Advances in neural information processing systems}, pages
+  2672--2680, 2014.
+
+\bibitem[Gulrajani et~al.(2017)Gulrajani, Ahmed, Arjovsky, Dumoulin, and
+  Courville]{gulrajani2017improved}
+Ishaan Gulrajani, Faruk Ahmed, Martin Arjovsky, Vincent Dumoulin, and Aaron~C
+  Courville.
+\newblock Improved training of wasserstein gans.
+\newblock In \emph{Advances in neural information processing systems}, pages
+  5767--5777, 2017.
+
+\bibitem[Hardy et~al.(2018{\natexlab{a}})Hardy, Le~Merrer, and
+  Sericola]{hardy2018gossiping}
+Corentin Hardy, Erwan Le~Merrer, and Bruno Sericola.
+\newblock Gossiping gans.
+\newblock In \emph{Proceedings of the Second Workshop on Distributed
+  Infrastructures for Deep Learning: DIDL}, volume~22, 2018{\natexlab{a}}.
+
+\bibitem[Hardy et~al.(2018{\natexlab{b}})Hardy, Merrer, and
+  Sericola]{hardy2018md}
+Corentin Hardy, Erwan~Le Merrer, and Bruno Sericola.
+\newblock Md-gan: Multi-discriminator generative adversarial networks for
+  distributed datasets.
+\newblock \emph{arXiv preprint arXiv:1811.03850}, 2018{\natexlab{b}}.
+
+\bibitem[Heusel et~al.(2017)Heusel, Ramsauer, Unterthiner, Nessler, and
+  Hochreiter]{heusel2017gans}
+Martin Heusel, Hubert Ramsauer, Thomas Unterthiner, Bernhard Nessler, and Sepp
+  Hochreiter.
+\newblock Gans trained by a two time-scale update rule converge to a local nash
+  equilibrium.
+\newblock In \emph{Advances in Neural Information Processing Systems}, pages
+  6626--6637, 2017.
+
+\bibitem[Karmakar and Bhatnagar(2017)]{karmakar2017two}
+Prasenjit Karmakar and Shalabh Bhatnagar.
+\newblock Two time-scale stochastic approximation with controlled markov noise
+  and off-policy temporal-difference learning.
+\newblock \emph{Mathematics of Operations Research}, 43\penalty0 (1):\penalty0
+  130--151, 2017.
+
+\bibitem[Khalil(2002)]{khalil2002nonlinear}
+Hassan~K Khalil.
+\newblock Nonlinear systems.
+\newblock \emph{Upper Saddle River}, 2002.
+
+\bibitem[Kodali et~al.(2017)Kodali, Abernethy, Hays, and
+  Kira]{kodali2017convergence}
+Naveen Kodali, Jacob Abernethy, James Hays, and Zsolt Kira.
+\newblock On convergence and stability of gans.
+\newblock \emph{arXiv preprint arXiv:1705.07215}, 2017.
+
+\bibitem[Konda et~al.(2004)Konda, Tsitsiklis, et~al.]{konda2004convergence}
+Vijay~R Konda, John~N Tsitsiklis, et~al.
+\newblock Convergence rate of linear two-time-scale stochastic approximation.
+\newblock \emph{The Annals of Applied Probability}, 14\penalty0 (2):\penalty0
+  796--819, 2004.
+
+\bibitem[Kone{\v{c}}n{\`y} et~al.(2016)Kone{\v{c}}n{\`y}, McMahan, Yu,
+  Richt{\'a}rik, Suresh, and Bacon]{konevcnyEtal-16arXiv}
+Jakub Kone{\v{c}}n{\`y}, H~Brendan McMahan, Felix~X Yu, Peter Richt{\'a}rik,
+  Ananda~Theertha Suresh, and Dave Bacon.
+\newblock Federated learning: Strategies for improving communication
+  efficiency.
+\newblock \emph{arXiv preprint arXiv:1610.05492}, 2016.
+
+\bibitem[Li et~al.(2019)Li, Huang, Yang, Wang, and Zhang]{li2019convergence}
+Xiang Li, Kaixuan Huang, Wenhao Yang, Shusen Wang, and Zhihua Zhang.
+\newblock On the convergence of fedavg on non-iid data.
+\newblock \emph{arXiv preprint arXiv:1907.02189}, 2019.
+
+\bibitem[Liu et~al.(2015)Liu, Luo, Wang, and Tang]{liu2015deep}
+Ziwei Liu, Ping Luo, Xiaogang Wang, and Xiaoou Tang.
+\newblock Deep learning face attributes in the wild.
+\newblock In \emph{Proceedings of the IEEE international conference on computer
+  vision}, pages 3730--3738, 2015.
+
+\bibitem[McMahan et~al.(2016)McMahan, Moore, Ramage, Hampson,
+  et~al.]{McmahanEtal-16arXiv}
+H~Brendan McMahan, Eider Moore, Daniel Ramage, Seth Hampson, et~al.
+\newblock Communication-efficient learning of deep networks from decentralized
+  data.
+\newblock \emph{arXiv preprint arXiv:1602.05629}, 2016.
+
+\bibitem[Mescheder et~al.(2017)Mescheder, Nowozin, and
+  Geiger]{mescheder2017numerics}
+Lars Mescheder, Sebastian Nowozin, and Andreas Geiger.
+\newblock The numerics of gans.
+\newblock In \emph{Advances in Neural Information Processing Systems}, pages
+  1825--1835, 2017.
+
+\bibitem[Mescheder et~al.(2018)Mescheder, Geiger, and
+  Nowozin]{mescheder2018training}
+Lars Mescheder, Andreas Geiger, and Sebastian Nowozin.
+\newblock Which training methods for gans do actually converge?
+\newblock \emph{arXiv preprint arXiv:1801.04406}, 2018.
+
+\bibitem[Metz et~al.(2016)Metz, Poole, Pfau, and
+  Sohl-Dickstein]{Metz2016UnrolledGA}
+Luke Metz, Ben Poole, David Pfau, and Jascha Sohl-Dickstein.
+\newblock Unrolled generative adversarial networks.
+\newblock \emph{ArXiv}, abs/1611.02163, 2016.
+
+\bibitem[Mirza and Osindero(2014)]{mirza2014conditional}
+Mehdi Mirza and Simon Osindero.
+\newblock Conditional generative adversarial nets.
+\newblock \emph{arXiv preprint arXiv:1411.1784}, 2014.
+
+\bibitem[Nagarajan and Kolter(2017)]{nagarajan2017gradient}
+Vaishnavh Nagarajan and J~Zico Kolter.
+\newblock Gradient descent gan optimization is locally stable.
+\newblock In \emph{Advances in Neural Information Processing Systems}, pages
+  5585--5595, 2017.
+
+\bibitem[Nowozin et~al.(2016)Nowozin, Cseke, and Tomioka]{nowozin2016f}
+Sebastian Nowozin, Botond Cseke, and Ryota Tomioka.
+\newblock f-gan: Training generative neural samplers using variational
+  divergence minimization.
+\newblock In \emph{Advances in neural information processing systems}, pages
+  271--279, 2016.
+
+\bibitem[Odena et~al.(2017)Odena, Olah, and Shlens]{odena2017conditional}
+Augustus Odena, Christopher Olah, and Jonathon Shlens.
+\newblock Conditional image synthesis with auxiliary classifier gans.
+\newblock In \emph{Proceedings of the 34th International Conference on Machine
+  Learning-Volume 70}, pages 2642--2651. JMLR. org, 2017.
+
+\bibitem[Rajagopal. and Nirmala.(2019)]{Rajagopal2019FederatedAL}
+A~Rajagopal. and V.~Nirmala.
+\newblock Federated ai lets a team imagine together: Federated learning of
+  gans.
+\newblock \emph{.}, 2019.
+
+\bibitem[Ratliff et~al.(2013)Ratliff, Burden, and
+  Sastry]{ratliff2013characterization}
+Lillian~J Ratliff, Samuel~A Burden, and S~Shankar Sastry.
+\newblock Characterization and computation of local nash equilibria in
+  continuous games.
+\newblock In \emph{2013 51st Annual Allerton Conference on Communication,
+  Control, and Computing (Allerton)}, pages 917--924. IEEE, 2013.
+
+\bibitem[Stankovic et~al.(2016)Stankovic, Stankovic, Liao, and
+  Wilson]{stankovic2016measuring}
+Lina Stankovic, V~Stankovic, J~Liao, and C~Wilson.
+\newblock Measuring the energy intensity of domestic activities from smart
+  meter data.
+\newblock \emph{Applied Energy}, 183:\penalty0 1565--1580, 2016.
+
+\bibitem[Stich(2018)]{stich2018local}
+Sebastian~U Stich.
+\newblock Local sgd converges fast and communicates little.
+\newblock \emph{arXiv preprint arXiv:1805.09767}, 2018.
+
+\bibitem[Wang and Joshi(2018)]{wang2018cooperative}
+Jianyu Wang and Gauri Joshi.
+\newblock Cooperative sgd: A unified framework for the design and analysis of
+  communication-efficient sgd algorithms.
+\newblock \emph{arXiv preprint arXiv:1808.07576}, 2018.
+
+\bibitem[Wang et~al.(2019)Wang, Tuor, Salonidis, Leung, Makaya, He, and
+  Chan]{wang2019adaptive}
+Shiqiang Wang, Tiffany Tuor, Theodoros Salonidis, Kin~K Leung, Christian
+  Makaya, Ting He, and Kevin Chan.
+\newblock Adaptive federated learning in resource constrained edge computing
+  systems.
+\newblock \emph{IEEE Journal on Selected Areas in Communications}, 37\penalty0
+  (6):\penalty0 1205--1221, 2019.
+
+\bibitem[Yang et~al.(2019)Yang, Liu, Chen, and Tong]{yang2019federated}
+Qiang Yang, Yang Liu, Tianjian Chen, and Yongxin Tong.
+\newblock Federated machine learning: Concept and applications.
+\newblock \emph{ACM Transactions on Intelligent Systems and Technology (TIST)},
+  10\penalty0 (2):\penalty0 1--19, 2019.
+
+\bibitem[Yonetani et~al.(2019)Yonetani, Takahashi, Hashimoto, and
+  Ushiku]{yonetani2019decentralized}
+Ryo Yonetani, Tomohiro Takahashi, Atsushi Hashimoto, and Yoshitaka Ushiku.
+\newblock Decentralized learning of generative adversarial networks from
+  multi-client non-iid data.
+\newblock \emph{arXiv preprint arXiv:1905.09684}, 2019.
+
+\bibitem[Yu et~al.(2019)Yu, Yang, and Zhu]{yu2019parallel}
+Hao Yu, Sen Yang, and Shenghuo Zhu.
+\newblock Parallel restarted sgd with faster convergence and less
+  communication: Demystifying why model averaging works for deep learning.
+\newblock In \emph{Proceedings of the AAAI Conference on Artificial
+  Intelligence}, volume~33, pages 5693--5700, 2019.
+
+\bibitem[Zhang et~al.(2018)Zhang, Goodfellow, Metaxas, and
+  Odena]{zhang2018self}
+Han Zhang, Ian Goodfellow, Dimitris Metaxas, and Augustus Odena.
+\newblock Self-attention generative adversarial networks.
+\newblock \emph{arXiv preprint arXiv:1805.08318}, 2018.
+
+\end{thebibliography}
